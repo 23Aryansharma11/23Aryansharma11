@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=23Aryansharma11&theme=tokyonight&no-frame=true&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tusharchauhan89&theme=tokyonight&no-frame=true&row=1" />
 </p>
 ---
 
